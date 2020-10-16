@@ -2,6 +2,7 @@
 
 DMM WEBCAMP の学習コンテンツ HTML/CSS を学ぼうの 3 章の研修課題です。
 box1 の色を変えました。
+box1 の margin は無し
 
 ## 使い方
 
